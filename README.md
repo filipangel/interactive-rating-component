@@ -46,7 +46,7 @@ Users should be able to:
 
 This challenge involved using plain Javascript to switch the views inside the card after pressing submit. I did this by toggling a class called "hidden-card" between the two views. Although this wasn't very difficult to implement (and doesn't seem very efficient), it provided a good intro to using plain JS in web development. I also learned about the DOM and how it works as well as how to manipulate it to make dynamic changes to the webpage. In the future I hope to learn and use React instead.
 
-With regards to CSS, at this point I have a pretty good understanding of how to make elements look similar to the provided design. The only thing I struggled with is creating the color gradient in the background of the component. After lots of playing around in [cssgradient.io](https://cssgradient.io/) the color is still not quite the same.
+With regards to CSS, at this point I have a pretty good understanding of how to make elements look similar to the provided design. The only thing I struggled with is creating the color gradient in the background of the component. After lots of playing around in [cssgradient.io](https://cssgradient.io/) the color is still not quite the same as in the provided design.
 
 ## Author
 
